@@ -1,0 +1,22 @@
+{
+  "name": "rtrn",
+  "repo": "pluma/rtrn",
+  "description": "Returns its input.",
+  "keywords": [
+    "self",
+    "function",
+    "identity"
+  ],
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": ["dist/rtrn.js"],
+  "main": "./dist/rtrn.js",
+  "ignore": [
+    "**/.*",
+    "build",
+    "components",
+    "node_modules"
+  ],
+  "license": "UNLICENSE"
+}
