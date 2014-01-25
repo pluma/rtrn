@@ -1,6 +1,6 @@
 {
   "name": "rtrn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Alan Plum <me@pluma.io>",
   "description": "Returns its input.",
   "licenses": {
@@ -18,10 +18,12 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.16",
+    "mocha": "~1.17",
     "expect.js": "~0.2",
+    "jshint": "~2.4",
     "uglify-js": "~2.4",
-    "jshint": "~2.4"
+    "istanbul": "~0.2",
+    "coveralls": "~2.6"
   },
   "main": "./dist/rtrn.js",
   "scripts": {

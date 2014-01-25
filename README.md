@@ -1,10 +1,13 @@
 # Synopsis
 
-**rtrn** is a JavaScript function that returns its input.
+**rtrn** is a JavaScript function that returns its input (equivalent to the `I` [combinator](http://en.wikipedia.org/wiki/Combinatory_logic)).
+
+[![stability 5 - locked](http://b.repl.ca/v1/stability-5_--_locked-blue.png)
+](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/)
 
 [![browser support](https://ci.testling.com/pluma/rtrn.png)](https://ci.testling.com/pluma/rtrn)
 
-[![Build Status](https://travis-ci.org/pluma/rtrn.png?branch=master)](https://travis-ci.org/pluma/rtrn) [![NPM version](https://badge.fury.io/js/rtrn.png)](http://badge.fury.io/js/rtrn) [![Dependencies](https://david-dm.org/pluma/rtrn.png)](https://david-dm.org/pluma/rtrn)
+[![Build Status](https://travis-ci.org/pluma/rtrn.png?branch=master)](https://travis-ci.org/pluma/rtrn) [![Coverage Status](https://coveralls.io/repos/pluma/rtrn/badge.png?branch=master)](https://coveralls.io/r/pluma/rtrn?branch=master) [![Dependencies](https://david-dm.org/pluma/rtrn.png?theme=shields.io)](https://david-dm.org/pluma/rtrn)
 
 # Why?
 
