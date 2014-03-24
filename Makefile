@@ -1,4 +1,4 @@
-LICENSE_COMMENT="/*! rtrn 0.2.0 Original author Alan Plum <me@pluma.io>. Released into the Public Domain under the UNLICENSE. @preserve */"
+LICENSE_COMMENT="/*! rtrn 0.2.1 Original author Alan Plum <me@pluma.io>. Released into the Public Domain under the UNLICENSE. @preserve */"
 
 cover: lint dist
 	@./node_modules/.bin/istanbul cover -x "**/spec/**" \
