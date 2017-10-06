@@ -1,3 +1,5 @@
+**NOTE:** This package is no longer being maintained. If you are interested in taking over as maintainer or are interested in the npm package name, get in touch by creating an issue.
+
 # Synopsis
 
 **rtrn** is a JavaScript function that returns its input (equivalent to the `I` [combinator](http://en.wikipedia.org/wiki/Combinatory_logic)).
